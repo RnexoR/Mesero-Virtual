@@ -1,0 +1,32 @@
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.exe
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.deps.json
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.runtimeconfig.json
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.runtimeconfig.dev.json
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.dll
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\bin\Debug\net5.0\ref\Proyecto Final.dll
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.pdb
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.AssemblyInfo.cs
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.dll
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net5.0\ref\Proyecto Final.dll
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.pdb
+C:\Users\ReinieR\source\repos\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.genruntimeconfig.cache
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.exe
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.deps.json
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.runtimeconfig.json
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.runtimeconfig.dev.json
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.dll
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\bin\Debug\net5.0\ref\Proyecto Final.dll
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\bin\Debug\net5.0\Proyecto Final.pdb
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.AssemblyInfo.cs
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.dll
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\obj\Debug\net5.0\ref\Proyecto Final.dll
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.pdb
+C:\Users\ReinieR\Desktop\UNITEC\Trimestre 3\Programacion 2\Corte 4\Proyecto Final\Proyecto Final\obj\Debug\net5.0\Proyecto Final.genruntimeconfig.cache
